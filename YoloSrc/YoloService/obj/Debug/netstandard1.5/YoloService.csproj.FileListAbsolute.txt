@@ -1,0 +1,123 @@
+E:\00 YOLO\yolo-unity-master\YoloSrc\YoloService\bin\Debug\netstandard1.5\opencv_world340.dll
+E:\00 YOLO\yolo-unity-master\YoloSrc\YoloService\bin\Debug\netstandard1.5\yolo_cpp_dll_cpu.dll
+E:\00 YOLO\yolo-unity-master\YoloSrc\YoloService\bin\Debug\netstandard1.5\yolo_cpp_dll_gpu.dll
+E:\00 YOLO\yolo-unity-master\YoloSrc\YoloService\bin\Debug\netstandard1.5\pthreadGC2.dll
+E:\00 YOLO\yolo-unity-master\YoloSrc\YoloService\bin\Debug\netstandard1.5\pthreadVC2.dll
+E:\00 YOLO\yolo-unity-master\YoloSrc\YoloService\bin\Debug\netstandard1.5\msvcr100.dll
+E:\00 YOLO\yolo-unity-master\YoloSrc\YoloService\bin\Debug\netstandard1.5\Config\coco.names
+E:\00 YOLO\yolo-unity-master\YoloSrc\YoloService\bin\Debug\netstandard1.5\Config\yolov3-tiny.cfg
+E:\00 YOLO\yolo-unity-master\YoloSrc\YoloService\bin\Debug\netstandard1.5\Config\yolov3-tiny.weights
+E:\00 YOLO\yolo-unity-master\YoloSrc\YoloService\bin\Debug\netstandard1.5\YoloService.deps.json
+E:\00 YOLO\yolo-unity-master\YoloSrc\YoloService\bin\Debug\netstandard1.5\YoloService.dll
+E:\00 YOLO\yolo-unity-master\YoloSrc\YoloService\bin\Debug\netstandard1.5\YoloService.pdb
+E:\00 YOLO\yolo-unity-master\YoloSrc\YoloService\bin\Debug\netstandard1.5\Alturos.Yolo.dll
+E:\00 YOLO\yolo-unity-master\YoloSrc\YoloService\bin\Debug\netstandard1.5\Alturos.Yolo.pdb
+E:\00 YOLO\yolo-unity-master\YoloSrc\YoloService\obj\Debug\netstandard1.5\YoloService.csprojAssemblyReference.cache
+E:\00 YOLO\yolo-unity-master\YoloSrc\YoloService\obj\Debug\netstandard1.5\YoloService.csproj.CoreCompileInputs.cache
+E:\00 YOLO\yolo-unity-master\YoloSrc\YoloService\obj\Debug\netstandard1.5\YoloService.AssemblyInfoInputs.cache
+E:\00 YOLO\yolo-unity-master\YoloSrc\YoloService\obj\Debug\netstandard1.5\YoloService.AssemblyInfo.cs
+E:\00 YOLO\yolo-unity-master\YoloSrc\YoloService\obj\Debug\netstandard1.5\YoloService.csproj.CopyComplete
+E:\00 YOLO\yolo-unity-master\YoloSrc\YoloService\obj\Debug\netstandard1.5\YoloService.dll
+E:\00 YOLO\yolo-unity-master\YoloSrc\YoloService\obj\Debug\netstandard1.5\YoloService.pdb
+E:\Unity\yolo-unity-master\YoloSrc\YoloService\bin\Debug\netstandard1.5\opencv_world340.dll
+E:\Unity\yolo-unity-master\YoloSrc\YoloService\bin\Debug\netstandard1.5\yolo_cpp_dll_cpu.dll
+E:\Unity\yolo-unity-master\YoloSrc\YoloService\bin\Debug\netstandard1.5\yolo_cpp_dll_gpu.dll
+E:\Unity\yolo-unity-master\YoloSrc\YoloService\bin\Debug\netstandard1.5\pthreadGC2.dll
+E:\Unity\yolo-unity-master\YoloSrc\YoloService\bin\Debug\netstandard1.5\pthreadVC2.dll
+E:\Unity\yolo-unity-master\YoloSrc\YoloService\bin\Debug\netstandard1.5\msvcr100.dll
+E:\Unity\yolo-unity-master\YoloSrc\YoloService\bin\Debug\netstandard1.5\Config\coco.names
+E:\Unity\yolo-unity-master\YoloSrc\YoloService\bin\Debug\netstandard1.5\Config\yolov3-tiny.cfg
+E:\Unity\yolo-unity-master\YoloSrc\YoloService\bin\Debug\netstandard1.5\Config\yolov3-tiny.weights
+E:\Unity\yolo-unity-master\YoloSrc\YoloService\bin\Debug\netstandard1.5\YoloService.deps.json
+E:\Unity\yolo-unity-master\YoloSrc\YoloService\bin\Debug\netstandard1.5\YoloService.dll
+E:\Unity\yolo-unity-master\YoloSrc\YoloService\bin\Debug\netstandard1.5\YoloService.pdb
+E:\Unity\yolo-unity-master\YoloSrc\YoloService\bin\Debug\netstandard1.5\Alturos.Yolo.dll
+E:\Unity\yolo-unity-master\YoloSrc\YoloService\bin\Debug\netstandard1.5\Alturos.Yolo.pdb
+E:\Unity\yolo-unity-master\YoloSrc\YoloService\obj\Debug\netstandard1.5\YoloService.csprojAssemblyReference.cache
+E:\Unity\yolo-unity-master\YoloSrc\YoloService\obj\Debug\netstandard1.5\YoloService.csproj.CoreCompileInputs.cache
+E:\Unity\yolo-unity-master\YoloSrc\YoloService\obj\Debug\netstandard1.5\YoloService.AssemblyInfoInputs.cache
+E:\Unity\yolo-unity-master\YoloSrc\YoloService\obj\Debug\netstandard1.5\YoloService.AssemblyInfo.cs
+E:\Unity\yolo-unity-master\YoloSrc\YoloService\obj\Debug\netstandard1.5\YoloService.csproj.CopyComplete
+E:\Unity\yolo-unity-master\YoloSrc\YoloService\obj\Debug\netstandard1.5\YoloService.dll
+E:\Unity\yolo-unity-master\YoloSrc\YoloService\obj\Debug\netstandard1.5\YoloService.pdb
+F:\C# Project\yolo-unity-master\YoloSrc\YoloService\bin\Debug\netstandard1.5\opencv_world340.dll
+F:\C# Project\yolo-unity-master\YoloSrc\YoloService\bin\Debug\netstandard1.5\yolo_cpp_dll_cpu.dll
+F:\C# Project\yolo-unity-master\YoloSrc\YoloService\bin\Debug\netstandard1.5\yolo_cpp_dll_gpu.dll
+F:\C# Project\yolo-unity-master\YoloSrc\YoloService\bin\Debug\netstandard1.5\pthreadGC2.dll
+F:\C# Project\yolo-unity-master\YoloSrc\YoloService\bin\Debug\netstandard1.5\pthreadVC2.dll
+F:\C# Project\yolo-unity-master\YoloSrc\YoloService\bin\Debug\netstandard1.5\msvcr100.dll
+F:\C# Project\yolo-unity-master\YoloSrc\YoloService\bin\Debug\netstandard1.5\Config\coco.names
+F:\C# Project\yolo-unity-master\YoloSrc\YoloService\bin\Debug\netstandard1.5\Config\yolov3-tiny.cfg
+F:\C# Project\yolo-unity-master\YoloSrc\YoloService\bin\Debug\netstandard1.5\Config\yolov3-tiny.weights
+F:\C# Project\yolo-unity-master\YoloSrc\YoloService\bin\Debug\netstandard1.5\YoloService.deps.json
+F:\C# Project\yolo-unity-master\YoloSrc\YoloService\bin\Debug\netstandard1.5\YoloService.dll
+F:\C# Project\yolo-unity-master\YoloSrc\YoloService\bin\Debug\netstandard1.5\YoloService.pdb
+F:\C# Project\yolo-unity-master\YoloSrc\YoloService\bin\Debug\netstandard1.5\Alturos.Yolo.dll
+F:\C# Project\yolo-unity-master\YoloSrc\YoloService\bin\Debug\netstandard1.5\Alturos.Yolo.pdb
+F:\C# Project\yolo-unity-master\YoloSrc\YoloService\obj\Debug\netstandard1.5\YoloService.csprojAssemblyReference.cache
+F:\C# Project\yolo-unity-master\YoloSrc\YoloService\obj\Debug\netstandard1.5\YoloService.csproj.CoreCompileInputs.cache
+F:\C# Project\yolo-unity-master\YoloSrc\YoloService\obj\Debug\netstandard1.5\YoloService.AssemblyInfoInputs.cache
+F:\C# Project\yolo-unity-master\YoloSrc\YoloService\obj\Debug\netstandard1.5\YoloService.AssemblyInfo.cs
+F:\C# Project\yolo-unity-master\YoloSrc\YoloService\obj\Debug\netstandard1.5\YoloService.csproj.CopyComplete
+F:\C# Project\yolo-unity-master\YoloSrc\YoloService\obj\Debug\netstandard1.5\YoloService.dll
+F:\C# Project\yolo-unity-master\YoloSrc\YoloService\obj\Debug\netstandard1.5\YoloService.pdb
+F:\C# Project\TcpServer_detect\YoloSrc\YoloService\bin\Debug\netstandard1.5\opencv_world340.dll
+F:\C# Project\TcpServer_detect\YoloSrc\YoloService\bin\Debug\netstandard1.5\yolo_cpp_dll_cpu.dll
+F:\C# Project\TcpServer_detect\YoloSrc\YoloService\bin\Debug\netstandard1.5\yolo_cpp_dll_gpu.dll
+F:\C# Project\TcpServer_detect\YoloSrc\YoloService\bin\Debug\netstandard1.5\pthreadGC2.dll
+F:\C# Project\TcpServer_detect\YoloSrc\YoloService\bin\Debug\netstandard1.5\pthreadVC2.dll
+F:\C# Project\TcpServer_detect\YoloSrc\YoloService\bin\Debug\netstandard1.5\msvcr100.dll
+F:\C# Project\TcpServer_detect\YoloSrc\YoloService\bin\Debug\netstandard1.5\YoloService.deps.json
+F:\C# Project\TcpServer_detect\YoloSrc\YoloService\bin\Debug\netstandard1.5\YoloService.dll
+F:\C# Project\TcpServer_detect\YoloSrc\YoloService\bin\Debug\netstandard1.5\YoloService.pdb
+F:\C# Project\TcpServer_detect\YoloSrc\YoloService\bin\Debug\netstandard1.5\Alturos.Yolo.dll
+F:\C# Project\TcpServer_detect\YoloSrc\YoloService\bin\Debug\netstandard1.5\Alturos.Yolo.pdb
+F:\C# Project\TcpServer_detect\YoloSrc\YoloService\obj\Debug\netstandard1.5\YoloService.csprojAssemblyReference.cache
+F:\C# Project\TcpServer_detect\YoloSrc\YoloService\obj\Debug\netstandard1.5\YoloService.csproj.CoreCompileInputs.cache
+F:\C# Project\TcpServer_detect\YoloSrc\YoloService\obj\Debug\netstandard1.5\YoloService.AssemblyInfoInputs.cache
+F:\C# Project\TcpServer_detect\YoloSrc\YoloService\obj\Debug\netstandard1.5\YoloService.AssemblyInfo.cs
+F:\C# Project\TcpServer_detect\YoloSrc\YoloService\obj\Debug\netstandard1.5\YoloService.csproj.CopyComplete
+F:\C# Project\TcpServer_detect\YoloSrc\YoloService\obj\Debug\netstandard1.5\YoloService.dll
+F:\C# Project\TcpServer_detect\YoloSrc\YoloService\obj\Debug\netstandard1.5\YoloService.pdb
+E:\Unity\Realtimedetecter New\TcpServer_detect\YoloSrc\YoloService\bin\Debug\netstandard1.5\opencv_world340.dll
+E:\Unity\Realtimedetecter New\TcpServer_detect\YoloSrc\YoloService\bin\Debug\netstandard1.5\yolo_cpp_dll_cpu.dll
+E:\Unity\Realtimedetecter New\TcpServer_detect\YoloSrc\YoloService\bin\Debug\netstandard1.5\yolo_cpp_dll_gpu.dll
+E:\Unity\Realtimedetecter New\TcpServer_detect\YoloSrc\YoloService\bin\Debug\netstandard1.5\pthreadGC2.dll
+E:\Unity\Realtimedetecter New\TcpServer_detect\YoloSrc\YoloService\bin\Debug\netstandard1.5\pthreadVC2.dll
+E:\Unity\Realtimedetecter New\TcpServer_detect\YoloSrc\YoloService\bin\Debug\netstandard1.5\msvcr100.dll
+E:\Unity\Realtimedetecter New\TcpServer_detect\YoloSrc\YoloService\bin\Debug\netstandard1.5\Config\coco.names
+E:\Unity\Realtimedetecter New\TcpServer_detect\YoloSrc\YoloService\bin\Debug\netstandard1.5\Config\yolov3-tiny.cfg
+E:\Unity\Realtimedetecter New\TcpServer_detect\YoloSrc\YoloService\bin\Debug\netstandard1.5\Config\yolov3-tiny.weights
+E:\Unity\Realtimedetecter New\TcpServer_detect\YoloSrc\YoloService\bin\Debug\netstandard1.5\YoloService.deps.json
+E:\Unity\Realtimedetecter New\TcpServer_detect\YoloSrc\YoloService\bin\Debug\netstandard1.5\YoloService.dll
+E:\Unity\Realtimedetecter New\TcpServer_detect\YoloSrc\YoloService\bin\Debug\netstandard1.5\YoloService.pdb
+E:\Unity\Realtimedetecter New\TcpServer_detect\YoloSrc\YoloService\bin\Debug\netstandard1.5\Alturos.Yolo.dll
+E:\Unity\Realtimedetecter New\TcpServer_detect\YoloSrc\YoloService\bin\Debug\netstandard1.5\Alturos.Yolo.pdb
+E:\Unity\Realtimedetecter New\TcpServer_detect\YoloSrc\YoloService\obj\Debug\netstandard1.5\YoloService.csprojAssemblyReference.cache
+E:\Unity\Realtimedetecter New\TcpServer_detect\YoloSrc\YoloService\obj\Debug\netstandard1.5\YoloService.csproj.CoreCompileInputs.cache
+E:\Unity\Realtimedetecter New\TcpServer_detect\YoloSrc\YoloService\obj\Debug\netstandard1.5\YoloService.AssemblyInfoInputs.cache
+E:\Unity\Realtimedetecter New\TcpServer_detect\YoloSrc\YoloService\obj\Debug\netstandard1.5\YoloService.AssemblyInfo.cs
+E:\Unity\Realtimedetecter New\TcpServer_detect\YoloSrc\YoloService\obj\Debug\netstandard1.5\YoloService.csproj.CopyComplete
+E:\Unity\Realtimedetecter New\TcpServer_detect\YoloSrc\YoloService\obj\Debug\netstandard1.5\YoloService.dll
+E:\Unity\Realtimedetecter New\TcpServer_detect\YoloSrc\YoloService\obj\Debug\netstandard1.5\YoloService.pdb
+E:\Unity\GyroBaby\TcpServer_detect\YoloSrc\YoloService\bin\Debug\netstandard1.5\opencv_world340.dll
+E:\Unity\GyroBaby\TcpServer_detect\YoloSrc\YoloService\bin\Debug\netstandard1.5\yolo_cpp_dll_cpu.dll
+E:\Unity\GyroBaby\TcpServer_detect\YoloSrc\YoloService\bin\Debug\netstandard1.5\yolo_cpp_dll_gpu.dll
+E:\Unity\GyroBaby\TcpServer_detect\YoloSrc\YoloService\bin\Debug\netstandard1.5\pthreadGC2.dll
+E:\Unity\GyroBaby\TcpServer_detect\YoloSrc\YoloService\bin\Debug\netstandard1.5\pthreadVC2.dll
+E:\Unity\GyroBaby\TcpServer_detect\YoloSrc\YoloService\bin\Debug\netstandard1.5\msvcr100.dll
+E:\Unity\GyroBaby\TcpServer_detect\YoloSrc\YoloService\bin\Debug\netstandard1.5\Config\coco.names
+E:\Unity\GyroBaby\TcpServer_detect\YoloSrc\YoloService\bin\Debug\netstandard1.5\Config\yolov3-tiny.cfg
+E:\Unity\GyroBaby\TcpServer_detect\YoloSrc\YoloService\bin\Debug\netstandard1.5\Config\yolov3-tiny.weights
+E:\Unity\GyroBaby\TcpServer_detect\YoloSrc\YoloService\bin\Debug\netstandard1.5\YoloService.deps.json
+E:\Unity\GyroBaby\TcpServer_detect\YoloSrc\YoloService\bin\Debug\netstandard1.5\YoloService.dll
+E:\Unity\GyroBaby\TcpServer_detect\YoloSrc\YoloService\bin\Debug\netstandard1.5\YoloService.pdb
+E:\Unity\GyroBaby\TcpServer_detect\YoloSrc\YoloService\bin\Debug\netstandard1.5\Alturos.Yolo.dll
+E:\Unity\GyroBaby\TcpServer_detect\YoloSrc\YoloService\bin\Debug\netstandard1.5\Alturos.Yolo.pdb
+E:\Unity\GyroBaby\TcpServer_detect\YoloSrc\YoloService\obj\Debug\netstandard1.5\YoloService.csprojAssemblyReference.cache
+E:\Unity\GyroBaby\TcpServer_detect\YoloSrc\YoloService\obj\Debug\netstandard1.5\YoloService.csproj.CoreCompileInputs.cache
+E:\Unity\GyroBaby\TcpServer_detect\YoloSrc\YoloService\obj\Debug\netstandard1.5\YoloService.AssemblyInfoInputs.cache
+E:\Unity\GyroBaby\TcpServer_detect\YoloSrc\YoloService\obj\Debug\netstandard1.5\YoloService.AssemblyInfo.cs
+E:\Unity\GyroBaby\TcpServer_detect\YoloSrc\YoloService\obj\Debug\netstandard1.5\YoloService.csproj.CopyComplete
+E:\Unity\GyroBaby\TcpServer_detect\YoloSrc\YoloService\obj\Debug\netstandard1.5\YoloService.dll
+E:\Unity\GyroBaby\TcpServer_detect\YoloSrc\YoloService\obj\Debug\netstandard1.5\YoloService.pdb

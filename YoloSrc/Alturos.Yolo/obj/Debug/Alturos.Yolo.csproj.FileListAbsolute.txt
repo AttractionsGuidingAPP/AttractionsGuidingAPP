@@ -1,0 +1,72 @@
+E:\Unity\yolo-unity-master\YoloSrc\Alturos.Yolo\bin\Debug\opencv_world340.dll
+E:\Unity\yolo-unity-master\YoloSrc\Alturos.Yolo\bin\Debug\yolo_cpp_dll_cpu.dll
+E:\Unity\yolo-unity-master\YoloSrc\Alturos.Yolo\bin\Debug\yolo_cpp_dll_gpu.dll
+E:\Unity\yolo-unity-master\YoloSrc\Alturos.Yolo\bin\Debug\pthreadGC2.dll
+E:\Unity\yolo-unity-master\YoloSrc\Alturos.Yolo\bin\Debug\pthreadVC2.dll
+E:\Unity\yolo-unity-master\YoloSrc\Alturos.Yolo\bin\Debug\msvcr100.dll
+E:\Unity\yolo-unity-master\YoloSrc\Alturos.Yolo\bin\Debug\Config\coco.names
+E:\Unity\yolo-unity-master\YoloSrc\Alturos.Yolo\bin\Debug\Config\yolov3-tiny.cfg
+E:\Unity\yolo-unity-master\YoloSrc\Alturos.Yolo\bin\Debug\Config\yolov3-tiny.weights
+E:\Unity\yolo-unity-master\YoloSrc\Alturos.Yolo\bin\Debug\Alturos.Yolo.dll
+E:\Unity\yolo-unity-master\YoloSrc\Alturos.Yolo\bin\Debug\Alturos.Yolo.pdb
+E:\Unity\yolo-unity-master\YoloSrc\Alturos.Yolo\obj\Debug\Alturos.Yolo.csprojAssemblyReference.cache
+E:\Unity\yolo-unity-master\YoloSrc\Alturos.Yolo\obj\Debug\Alturos.Yolo.csproj.CoreCompileInputs.cache
+E:\Unity\yolo-unity-master\YoloSrc\Alturos.Yolo\obj\Debug\Alturos.Yolo.dll
+E:\Unity\yolo-unity-master\YoloSrc\Alturos.Yolo\obj\Debug\Alturos.Yolo.pdb
+F:\C# Project\yolo-unity-master\YoloSrc\Alturos.Yolo\bin\Debug\opencv_world340.dll
+F:\C# Project\yolo-unity-master\YoloSrc\Alturos.Yolo\bin\Debug\yolo_cpp_dll_cpu.dll
+F:\C# Project\yolo-unity-master\YoloSrc\Alturos.Yolo\bin\Debug\yolo_cpp_dll_gpu.dll
+F:\C# Project\yolo-unity-master\YoloSrc\Alturos.Yolo\bin\Debug\pthreadGC2.dll
+F:\C# Project\yolo-unity-master\YoloSrc\Alturos.Yolo\bin\Debug\pthreadVC2.dll
+F:\C# Project\yolo-unity-master\YoloSrc\Alturos.Yolo\bin\Debug\msvcr100.dll
+F:\C# Project\yolo-unity-master\YoloSrc\Alturos.Yolo\bin\Debug\Config\coco.names
+F:\C# Project\yolo-unity-master\YoloSrc\Alturos.Yolo\bin\Debug\Config\yolov3-tiny.cfg
+F:\C# Project\yolo-unity-master\YoloSrc\Alturos.Yolo\bin\Debug\Config\yolov3-tiny.weights
+F:\C# Project\yolo-unity-master\YoloSrc\Alturos.Yolo\bin\Debug\Alturos.Yolo.dll
+F:\C# Project\yolo-unity-master\YoloSrc\Alturos.Yolo\bin\Debug\Alturos.Yolo.pdb
+F:\C# Project\yolo-unity-master\YoloSrc\Alturos.Yolo\obj\Debug\Alturos.Yolo.csproj.CoreCompileInputs.cache
+F:\C# Project\yolo-unity-master\YoloSrc\Alturos.Yolo\obj\Debug\Alturos.Yolo.dll
+F:\C# Project\yolo-unity-master\YoloSrc\Alturos.Yolo\obj\Debug\Alturos.Yolo.pdb
+F:\C# Project\yolo-unity-master\YoloSrc\Alturos.Yolo\obj\Debug\Alturos.Yolo.csprojAssemblyReference.cache
+F:\C# Project\TcpServer_detect\YoloSrc\Alturos.Yolo\bin\Debug\opencv_world340.dll
+F:\C# Project\TcpServer_detect\YoloSrc\Alturos.Yolo\bin\Debug\yolo_cpp_dll_cpu.dll
+F:\C# Project\TcpServer_detect\YoloSrc\Alturos.Yolo\bin\Debug\yolo_cpp_dll_gpu.dll
+F:\C# Project\TcpServer_detect\YoloSrc\Alturos.Yolo\bin\Debug\pthreadGC2.dll
+F:\C# Project\TcpServer_detect\YoloSrc\Alturos.Yolo\bin\Debug\pthreadVC2.dll
+F:\C# Project\TcpServer_detect\YoloSrc\Alturos.Yolo\bin\Debug\msvcr100.dll
+F:\C# Project\TcpServer_detect\YoloSrc\Alturos.Yolo\bin\Debug\Alturos.Yolo.dll
+F:\C# Project\TcpServer_detect\YoloSrc\Alturos.Yolo\bin\Debug\Alturos.Yolo.pdb
+F:\C# Project\TcpServer_detect\YoloSrc\Alturos.Yolo\obj\Debug\Alturos.Yolo.csprojAssemblyReference.cache
+F:\C# Project\TcpServer_detect\YoloSrc\Alturos.Yolo\obj\Debug\Alturos.Yolo.csproj.CoreCompileInputs.cache
+F:\C# Project\TcpServer_detect\YoloSrc\Alturos.Yolo\obj\Debug\Alturos.Yolo.dll
+F:\C# Project\TcpServer_detect\YoloSrc\Alturos.Yolo\obj\Debug\Alturos.Yolo.pdb
+E:\Unity\Realtimedetecter New\TcpServer_detect\YoloSrc\Alturos.Yolo\bin\Debug\opencv_world340.dll
+E:\Unity\Realtimedetecter New\TcpServer_detect\YoloSrc\Alturos.Yolo\bin\Debug\yolo_cpp_dll_cpu.dll
+E:\Unity\Realtimedetecter New\TcpServer_detect\YoloSrc\Alturos.Yolo\bin\Debug\yolo_cpp_dll_gpu.dll
+E:\Unity\Realtimedetecter New\TcpServer_detect\YoloSrc\Alturos.Yolo\bin\Debug\pthreadGC2.dll
+E:\Unity\Realtimedetecter New\TcpServer_detect\YoloSrc\Alturos.Yolo\bin\Debug\pthreadVC2.dll
+E:\Unity\Realtimedetecter New\TcpServer_detect\YoloSrc\Alturos.Yolo\bin\Debug\msvcr100.dll
+E:\Unity\Realtimedetecter New\TcpServer_detect\YoloSrc\Alturos.Yolo\bin\Debug\Config\coco.names
+E:\Unity\Realtimedetecter New\TcpServer_detect\YoloSrc\Alturos.Yolo\bin\Debug\Config\yolov3-tiny.cfg
+E:\Unity\Realtimedetecter New\TcpServer_detect\YoloSrc\Alturos.Yolo\bin\Debug\Config\yolov3-tiny.weights
+E:\Unity\Realtimedetecter New\TcpServer_detect\YoloSrc\Alturos.Yolo\bin\Debug\Alturos.Yolo.dll
+E:\Unity\Realtimedetecter New\TcpServer_detect\YoloSrc\Alturos.Yolo\bin\Debug\Alturos.Yolo.pdb
+E:\Unity\Realtimedetecter New\TcpServer_detect\YoloSrc\Alturos.Yolo\obj\Debug\Alturos.Yolo.csprojAssemblyReference.cache
+E:\Unity\Realtimedetecter New\TcpServer_detect\YoloSrc\Alturos.Yolo\obj\Debug\Alturos.Yolo.csproj.CoreCompileInputs.cache
+E:\Unity\Realtimedetecter New\TcpServer_detect\YoloSrc\Alturos.Yolo\obj\Debug\Alturos.Yolo.dll
+E:\Unity\Realtimedetecter New\TcpServer_detect\YoloSrc\Alturos.Yolo\obj\Debug\Alturos.Yolo.pdb
+E:\Unity\GyroBaby\TcpServer_detect\YoloSrc\Alturos.Yolo\bin\Debug\opencv_world340.dll
+E:\Unity\GyroBaby\TcpServer_detect\YoloSrc\Alturos.Yolo\bin\Debug\yolo_cpp_dll_cpu.dll
+E:\Unity\GyroBaby\TcpServer_detect\YoloSrc\Alturos.Yolo\bin\Debug\yolo_cpp_dll_gpu.dll
+E:\Unity\GyroBaby\TcpServer_detect\YoloSrc\Alturos.Yolo\bin\Debug\pthreadGC2.dll
+E:\Unity\GyroBaby\TcpServer_detect\YoloSrc\Alturos.Yolo\bin\Debug\pthreadVC2.dll
+E:\Unity\GyroBaby\TcpServer_detect\YoloSrc\Alturos.Yolo\bin\Debug\msvcr100.dll
+E:\Unity\GyroBaby\TcpServer_detect\YoloSrc\Alturos.Yolo\bin\Debug\Config\coco.names
+E:\Unity\GyroBaby\TcpServer_detect\YoloSrc\Alturos.Yolo\bin\Debug\Config\yolov3-tiny.cfg
+E:\Unity\GyroBaby\TcpServer_detect\YoloSrc\Alturos.Yolo\bin\Debug\Config\yolov3-tiny.weights
+E:\Unity\GyroBaby\TcpServer_detect\YoloSrc\Alturos.Yolo\bin\Debug\Alturos.Yolo.dll
+E:\Unity\GyroBaby\TcpServer_detect\YoloSrc\Alturos.Yolo\bin\Debug\Alturos.Yolo.pdb
+E:\Unity\GyroBaby\TcpServer_detect\YoloSrc\Alturos.Yolo\obj\Debug\Alturos.Yolo.csprojAssemblyReference.cache
+E:\Unity\GyroBaby\TcpServer_detect\YoloSrc\Alturos.Yolo\obj\Debug\Alturos.Yolo.csproj.CoreCompileInputs.cache
+E:\Unity\GyroBaby\TcpServer_detect\YoloSrc\Alturos.Yolo\obj\Debug\Alturos.Yolo.dll
+E:\Unity\GyroBaby\TcpServer_detect\YoloSrc\Alturos.Yolo\obj\Debug\Alturos.Yolo.pdb

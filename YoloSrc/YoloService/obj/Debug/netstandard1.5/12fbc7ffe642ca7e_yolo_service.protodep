@@ -1,0 +1,2 @@
+obj\Debug\netstandard1.5/YoloService.cs \
+obj\Debug\netstandard1.5/YoloServiceGrpc.cs: protos/yolo_service.proto

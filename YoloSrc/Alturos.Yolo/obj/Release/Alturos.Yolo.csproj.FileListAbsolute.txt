@@ -1,0 +1,15 @@
+E:\Unity\yolo-unity-master\YoloSrc\Alturos.Yolo\bin\Release\opencv_world340.dll
+E:\Unity\yolo-unity-master\YoloSrc\Alturos.Yolo\bin\Release\yolo_cpp_dll_cpu.dll
+E:\Unity\yolo-unity-master\YoloSrc\Alturos.Yolo\bin\Release\yolo_cpp_dll_gpu.dll
+E:\Unity\yolo-unity-master\YoloSrc\Alturos.Yolo\bin\Release\pthreadGC2.dll
+E:\Unity\yolo-unity-master\YoloSrc\Alturos.Yolo\bin\Release\pthreadVC2.dll
+E:\Unity\yolo-unity-master\YoloSrc\Alturos.Yolo\bin\Release\msvcr100.dll
+E:\Unity\yolo-unity-master\YoloSrc\Alturos.Yolo\bin\Release\Config\coco.names
+E:\Unity\yolo-unity-master\YoloSrc\Alturos.Yolo\bin\Release\Config\yolov3-tiny.cfg
+E:\Unity\yolo-unity-master\YoloSrc\Alturos.Yolo\bin\Release\Config\yolov3-tiny.weights
+E:\Unity\yolo-unity-master\YoloSrc\Alturos.Yolo\bin\Release\Alturos.Yolo.dll
+E:\Unity\yolo-unity-master\YoloSrc\Alturos.Yolo\bin\Release\Alturos.Yolo.pdb
+E:\Unity\yolo-unity-master\YoloSrc\Alturos.Yolo\obj\Release\Alturos.Yolo.csprojAssemblyReference.cache
+E:\Unity\yolo-unity-master\YoloSrc\Alturos.Yolo\obj\Release\Alturos.Yolo.csproj.CoreCompileInputs.cache
+E:\Unity\yolo-unity-master\YoloSrc\Alturos.Yolo\obj\Release\Alturos.Yolo.dll
+E:\Unity\yolo-unity-master\YoloSrc\Alturos.Yolo\obj\Release\Alturos.Yolo.pdb

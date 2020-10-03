@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>YoloService</id>
+    <version>1.0.0</version>
+    <authors>YoloService</authors>
+    <owners>YoloService</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETStandard1.5">
+        <dependency id="Alturos.Yolo" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="Google.Protobuf" version="3.6.1" exclude="Build,Analyzers" />
+        <dependency id="Grpc" version="1.17.0" exclude="Build,Analyzers" />
+        <dependency id="NETStandard.Library" version="1.6.1" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="9.0.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="E:\00 YOLO\yolo-unity-master\YoloSrc\YoloService\bin\Debug\netstandard1.5\YoloService.dll" target="lib\netstandard1.5\YoloService.dll" />
+  </files>
+</package>
